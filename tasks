@@ -1,0 +1,30 @@
+- [ ] string.h functions
+  - [ ] strlen
+  - [ ] strcpy
+  - [ ] strncpy
+  - [ ] strcat
+  - [ ] strncat
+  - [ ] strcmp
+  - [ ] strncmp
+  - [ ] strchr
+  - [ ] strcspn
+  - [ ] strpbrk
+  - [ ] strrchr
+  - [ ] strspn
+  - [ ] strstr
+  - [ ] strtok
+  - [ ] strerror
+- [ ] Copying
+- [ ] Concatenation
+- [ ] Comparision
+- [ ] Searching
+  - [ ] charcount       /* occurences of the character in the string */
+  - [ ] palincount      /* palindrome count */
+- [ ] Manipulation
+  - [ ] split           /* as in perl | this will return an array of pointers and its length */
+  - [ ] delete          /* char deletion */
+  - [ ] insert          /* char insertion */
+  - [ ] delfirof        /* delete n first elements in array */
+  - [ ] dellasof        /* delete n last elements in array */
+  - [ ] replnm          /* replace the char from the n to m with x */
+
