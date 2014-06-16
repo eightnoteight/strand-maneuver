@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stddef.h>
+#include <stdarg.h>
+#include <math.h>
+#include <ctype.h>
+#include <assert.h>
+#include <fcntl.h>
+#include <time.h>
+#include <errno.h>
+#include <limits.h>
+#include <float.h>
+//#include <ncurses.h>

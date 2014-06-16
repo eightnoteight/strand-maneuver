@@ -1,3 +1,4 @@
+#include "strand.h"
 char * strncpy(char *dest, char const *src, int n)
 {
 	char *p=dest;

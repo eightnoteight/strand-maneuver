@@ -1,17 +1,8 @@
-int strcmp(char *p, char *q)
+/*infact, the below line is unnecessary*/
+#include "strand.h"
+char * strcpy(char *dest, char const *src)
 {
-	while(*p)
-	{
-		if (*q == '\0')
-			return 1;
-		if (*p > *q)
-			return 1;
-		if (*p < *q)
-			return -1;
-		p++;
-		q++;
-	}
-	if(*q)
-		return -1;
-	return 0;
+	char *p=dest;
+	while ((*(p++)=*(src++))!='\0');
+	return dest;
 }
